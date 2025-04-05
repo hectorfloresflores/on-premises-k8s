@@ -1,6 +1,6 @@
 # Why Running Your Full Production Platform on a Mac Mini M4 Pro Is a Brilliant Idea (and How It Can Save You Thousands)
 
-**By [Your Name]**
+**By Hector Flores**
 
 ---
 
